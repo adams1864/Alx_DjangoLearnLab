@@ -1,3 +1,4 @@
+from bookshelf.models import Book
 book.delete()
 # Expected output:
 (1, {'bookshelf.Book': 1})
